@@ -15,4 +15,4 @@ def loadModules():
 loadModules()
 
 
-bot.run(secret.DISCORD_BOT_CODE)
+bot.run(secret.INTERRUPTINGCOW)
